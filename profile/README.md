@@ -1,7 +1,7 @@
-# DSU Web Dev Club
+# Full Stack Foundry
 ---
 We love websites.
 We love teaching people how to build them.
 Join us!
 ---
-https://wdc.anden.me
+https://fullstackfoundry.dev
