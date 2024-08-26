@@ -1,6 +1,3 @@
-# Full Stack Foundry
-We love websites.
-We love teaching people how to build them.
-Join us!
+# Spiderwatch
 ---
-https://fullstackfoundry.dev
+what are you doing here? shoo. oracle will find you.
